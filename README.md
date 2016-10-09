@@ -21,8 +21,8 @@ the opportunity to learn from you.
 <h3>Technologies</h3>
 Built on Python 3.5.1 as a precursor to the Django version.
 Code adheres to PEP-8 and was tested via PyLint:
-<br>Version 1.0 scored 9.02/10
-<br>Version 1.4 scored 8.90/10
+* Version 1.0 scored 9.02/10.
+* Version 1.4 scored 8.90/10.
 
 <h3>Possible improvements</h3>
 I would love it if other people took my work and created something better by building on it. I have thought about interesting projects
