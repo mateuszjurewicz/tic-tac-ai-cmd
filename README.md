@@ -1,7 +1,7 @@
 # tic-tac-ai-cmd
-Python 3.5.1 command line versions of tic-tac-ai, where you play the game against a simple AI and see what it was thinking.
-Version 1.0 allows you to play the game choosing tiles (0-8).
-Version 1.4 additionally shows what the AI was thinking by creating a new .txt file called what-AI-saw.
+Command line versions of tic-tac-ai (Python 3.5.1), where you play the game against a simple AI and see what it was thinking.
+<br>Version 1.0 allows you to play the game choosing tiles (0-8).
+<br>Version 1.4 additionally <b>shows what the AI was thinking<b> by creating a new .txt file called what-AI-saw.
 
 A Django web app version available at:
 http://tictacai.pythonanywhere.com/
