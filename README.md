@@ -8,15 +8,11 @@ http://tictacai.pythonanywhere.com/
 
 2016 10 06
 <h3>Description</h3>
-Play around with a perfect opponent in a game of online tic tac toe. The simple (weak) AI uses a strategy called the minimax algorithm<sup>1</sup>,
-it uses recursion to look through the entire tree of possible game states and chooses its best move assuming that it's playing against
-a perfect opponent. Key improvement included taking into consideration the number of turns left (it prefers to win quick and lose late).<br>
+Play around with a perfect opponent in a game of command line tic tac toe. The simple (weak) AI uses a strategy called the minimax algorithm<sup>1</sup>, it uses recursion to look through the entire tree of possible game states and chooses its best move assuming that it's playing against a perfect opponent. Key improvement included taking into consideration the number of turns left (it prefers to win quick and lose late).<br>
 * Additional feature <b>in version 1.4</b> allows you to see visualisations of the board at each AI turn, showing what the machine was thinking.
 
 <h3>Acknowledgments</h3>
-Inspired by Michael Dawson's "Python Programming for the Absolute Beginner"<sup>2</sup> , Brett Slatkin's "Effective Python: 59 Specific Ways to
-Write Better Python"<sup>3</sup> and most importantly a Ruby version of a similar concept by NeverStopBuilding<sup>4</sup>. Kudos to you all, thanks for
-the opportunity to learn from you.
+Inspired by Michael Dawson's "Python Programming for the Absolute Beginner"<sup>2</sup> , Brett Slatkin's "Effective Python: 59 Specific Ways to Write Better Python"<sup>3</sup> and most importantly a Ruby version of a similar concept by NeverStopBuilding<sup>4</sup>. Kudos to you all, thanks for the opportunity to learn from you.
 
 <h3>Technologies</h3>
 Built on Python 3.5.1 as a precursor to the Django version.
