@@ -4,7 +4,10 @@ Command line versions of tic-tac-ai (Python 3.5.1), where you play the game agai
 * Version 1.4 additionally <b>shows what the AI was thinking</b> by creating a new .txt file called what-AI-saw.
 
 A Django web app version available at:
-http://tictacai.pythonanywhere.com/
+<br/>http://tictacai.pythonanywhere.com/
+
+You can read a step-by-step walkthrough of this project on my website:
+<br/>https://mateuszjurewicz.wordpress.com/
 
 2016 10 06
 <h3>Description</h3>
